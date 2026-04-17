@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Restaurants & Food",
+    "icon": "🍽️",
+    "subcategories": [
+      { "name": "Cafes & Coffee Shops", "icon": "☕" },
+      { "name": "Fast Food", "icon": "🍔" },
+      { "name": "Fine Dining", "icon": "🍷" },
+      { "name": "Bakeries & Desserts", "icon": "🍰" },
+      { "name": "Food Trucks", "icon": "🚚" },
+      { "name": "Catering Services", "icon": "🎉" },
+      { "name": "Grocery Stores", "icon": "🛒" },
+      { "name": "Farmers Markets", "icon": "🌽" }
+    ]
+  },
+  {
+    "name": "Home Services",
+    "icon": "🏠🔧",
+    "subcategories": [
+      { "name": "Plumbers", "icon": "🚰" },
+      { "name": "Electricians", "icon": "⚡" },
+      { "name": "Roofing Services", "icon": "🏠" },
+      { "name": "Cleaning Services", "icon": "🧹" },
+      { "name": "Pest Control", "icon": "🐜" },
+      { "name": "Landscaping & Gardening", "icon": "🌿" },
+      { "name": "Home Renovation", "icon": "🔨" },
+      { "name": "HVAC (Heating & Cooling)", "icon": "❄️🔥" },
+      { "name": "Interior Design", "icon": "🏡" }
+    ]
+  },
+  {
+    "name": "Auto Services",
+    "icon": "🚗🔧",
+    "subcategories": [
+      { "name": "Car Repair & Mechanics", "icon": "🔧" },
+      { "name": "Car Wash & Detailing", "icon": "🧼" },
+      { "name": "Tire Shops", "icon": "🚗" },
+      { "name": "Auto Body Shops", "icon": "🏎️" },
+      { "name": "Towing Services", "icon": "🚨" },
+      { "name": "Car Rentals", "icon": "🚙" },
+      { "name": "Motorcycle Repair", "icon": "🏍️" }
+    ]
+  },
+  {
+    "name": "Health & Wellness",
+    "icon": "💆",
+    "subcategories": [
+      { "name": "Doctors & Medical Clinics", "icon": "🏥" },
+      { "name": "Dentists", "icon": "😁" },
+      { "name": "Pharmacies", "icon": "💊" },
+      { "name": "Fitness Centers & Gyms", "icon": "🏋️" },
+      { "name": "Spas & Massage Therapists", "icon": "💆" },
+      { "name": "Yoga & Meditation Centers", "icon": "🧘" },
+      { "name": "Chiropractors", "icon": "🦴" },
+      { "name": "Mental Health Services", "icon": "🧠" }
+    ]
+  },
+  {
+    "name": "Entertainment & Events",
+    "icon": "🎭",
+    "subcategories": [
+      { "name": "Event Planning", "icon": "🎊" },
+      { "name": "Wedding Services", "icon": "💍" },
+      { "name": "Photography & Videography", "icon": "📸" },
+      { "name": "Concert Venues", "icon": "🎶" },
+      { "name": "Movie Theaters", "icon": "🎬" },
+      { "name": "Bowling Alleys", "icon": "🎳" },
+      { "name": "Escape Rooms", "icon": "🔒" },
+      { "name": "Nightclubs & Bars", "icon": "🍾" }
+    ]
+  },
+  {
+    "name": "Shopping & Retail",
+    "icon": "🛍️",
+    "subcategories": [
+      { "name": "Clothing Stores", "icon": "👗" },
+      { "name": "Electronics & Gadgets", "icon": "📱" },
+      { "name": "Furniture Stores", "icon": "🛋️" },
+      { "name": "Bookstores", "icon": "📚" },
+      { "name": "Jewelry Stores", "icon": "💎" },
+      { "name": "Pet Stores & Services", "icon": "🐶" },
+      { "name": "Sporting Goods", "icon": "🏀" }
+    ]
+  },
+  {
+    "name": "Professional Services",
+    "icon": "👨‍💼",
+    "subcategories": [
+      { "name": "Real Estate Agents", "icon": "🏡" },
+      { "name": "Lawyers & Legal Services", "icon": "⚖️" },
+      { "name": "Accountants & Tax Services", "icon": "💰" },
+      { "name": "Marketing & Advertising", "icon": "📢" },
+      { "name": "IT & Web Development", "icon": "💻" },
+      { "name": "Printing & Design Services", "icon": "🖨️" }
+    ]
+  },
+  {
+    "name": "Travel & Transportation",
+    "icon": "✈️",
+    "subcategories": [
+      { "name": "Hotels & Resorts", "icon": "🏨" },
+      { "name": "Travel Agencies", "icon": "✈️" },
+      { "name": "Tourist Attractions", "icon": "🗺️" },
+      { "name": "Bus & Train Services", "icon": "🚆" },
+      { "name": "Airport Shuttles", "icon": "🚌" }
+    ]
+  },
+  {
+    "name": "Education & Learning",
+    "icon": "🧑‍🎓",
+    "subcategories": [
+      { "name": "Tutoring Services", "icon": "📖" },
+      { "name": "Language Schools", "icon": "🌎" },
+      { "name": "Driving Schools", "icon": "🚦" },
+      { "name": "Music Lessons", "icon": "🎸" },
+      { "name": "Dance Studios", "icon": "💃" }
+    ]
+  }
+]
