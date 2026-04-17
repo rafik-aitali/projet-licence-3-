@@ -7,7 +7,7 @@ const initializeSocket = (server) => {
   if (!io) {
     io = new Server(server, {
       cors: {
-        origin: "https://klyv.onrender.com",
+        origin: "http://localhost:5173",
         methods: ["GET", "POST"],
         credentials: true,
       },
